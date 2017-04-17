@@ -1,6 +1,8 @@
 div{
-	padding-bottom: 10px;
+	padding-bottom: 40px;
 	font-family: 'Raleway', sans-serif;
+	width: 30%;
+	margin: 10px;
 }
 #lab ,#cambio{
 	background-color: yellow;
@@ -8,5 +10,4 @@ div{
 }
 #es{
 	background-color: pink;
-	border: solid 1px black;
 }
