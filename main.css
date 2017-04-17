@@ -1,14 +1,27 @@
-div{
-	padding-bottom: 40px;*/
+div ,.fila ,.solo{
 	font-family: 'Raleway', sans-serif;
-	display: inline-block;
+	height: 150px;
 	width: 150px;
-	/*margin: 10px;*/
+	border: 1px solid black;
+	text-align: center;
+	margin: 10px;
+	font-size: 50px;
+	justify-content: center;
+
 }
-#lab ,#cambio{
+ .fila{
 	background-color: yellow;
-	
+	display: inline-block;
+
 }
-#es{
+.solo{
 	background-color: pink;
+
+}
+#todo{
+	border: 1px solid black;
+	width: 550px;
+	height: 170px;
+	margin: 20px 20px 10px 10px;
+	padding: 10px;	
 }
