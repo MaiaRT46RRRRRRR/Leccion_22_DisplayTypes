@@ -1,0 +1,12 @@
+div{
+	padding-bottom: 10px;
+	font-family: 'Raleway', sans-serif;
+}
+#lab ,#cambio{
+	background-color: yellow;
+	
+}
+#es{
+	background-color: pink;
+	border: solid 1px black;
+}
